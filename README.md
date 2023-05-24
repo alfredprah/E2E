@@ -7,3 +7,4 @@
 
 Steps:
 1. Generate a .pkl file from final model. cc: train.ipynb
+2. Create a sqlite database to store future inputs from users 
